@@ -1,0 +1,1 @@
+This is a test of showing github to my students. By creating a text file on my computer, I can then push this to my repo on Github
